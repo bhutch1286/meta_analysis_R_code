@@ -1,5 +1,5 @@
 # project_code
-R code for meta analysis publication at Psychological Bulletin (Hutchinson et al., 2022)
+R code for IB meta analysis - accepted at Psyc Bulletin.
 
 Proceed through analyses in stepwise manner from code file 1_ through to 6_. 
 
